@@ -77,11 +77,11 @@ See the notebooks and paper for the complete experimental configurations and eva
 
 The source image collection is derived from YFCC100M. The extraction workflow, curated metadata, evaluation splits, and experiment outputs are maintained separately from this code repository.
 
-- **YFCC100M enriched metadata:** [Add Kaggle dataset URL]
-- **Label-audit and split artifacts:** [Add Kaggle dataset URL]
-- **Neural ablation results:** [Add Kaggle dataset URL]
-- **Encoder-fix rerun results:** [Add Kaggle dataset URL]
-- **Matched-split baseline results:** [Add Kaggle dataset URL]
+- [**YFCC100M enriched metadata:**](https://www.kaggle.com/datasets/waleedqamarsaeed/yfcc100m-metadata-enriched-c)
+- [**Label-audit and split artifacts:**](https://www.kaggle.com/datasets/waleedqamarsaeed/nba-audit-splits)
+- [**Neural ablation results:**](https://www.kaggle.com/datasets/waleedqamarsaeed/nbc-runs)
+- [**Encoder-fix rerun results:**](https://www.kaggle.com/datasets/waleedqamarsaeed/nbcfix-runs)
+- [**Matched-split baseline results:**](https://www.kaggle.com/code/waleedqamarsaeed/notebook-gbm-matched-split-classical-baseline)
 
 The availability and reuse of underlying data remain subject to the original dataset's terms and applicable licenses. This repository should not be assumed to contain the original images or every intermediate artifact.
 
